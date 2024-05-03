@@ -1,0 +1,28 @@
+
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url(395630127_18405319714042103_9035538455250871602_n.jpg);
+            background-size: cover;
+            background-position: center;
+            height: 100vh;
+            color: #fff;
+        }
+        .content {
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 3em;
+            margin-top: 50px;
+            transform: translate(-30%,-30%);
+            padding-top: 28%;
+        }
+        p {
+            font-size: 1.2em;
+            margin-top: 50px;
+            transform: translate(-30%,-30%);
+            padding-top: -30%;
+        }
