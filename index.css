@@ -78,26 +78,33 @@ header {
         display: block;
         }
 
-    .ep_luisa h1{
-        text-align: center;
-        padding-bottom: 4%;
-         }
+        
+.ep_luisa{
+     text-align: center;
+}
+.ep_luisa h1{
+    text-align: center;
+    padding-bottom: 4%;
+ }
 
-    .ep_luisa img{
-        padding-left: 42%;
-        padding-bottom: 4%;
-    }
+.ep_luisa img{
+     text-align: center;
+        
+}
 
-    .ep_luisa p{
-        text-align: center;
-        padding-left: 10%;
-        padding-right: 10%;
-        font-size: large;
-        text-align: justify;
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
+.ep_luisa p{
+     text-align: center;
+     padding-left: 10%;
+     padding-right: 10%;
+    font-size: large;
+    text-align: justify;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
        
-    }
+ }
 
+.luisa2{
+    text-align: center;
+}
 .luisa2 h1{
     text-align: center;
     padding-top: 15%;
@@ -105,8 +112,7 @@ header {
 }
 
 .luisa2 img{
-    padding-left: 42%;
-    padding-bottom: 4%;
+  padding-bottom: 4%;
 }
 
 .luisa2 p{
@@ -118,6 +124,9 @@ header {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.intro5{
+    text-align: center;
+}
 .intro5 h1{
 text-align: center;
 padding-top: 15%;
@@ -125,8 +134,7 @@ padding-bottom: 4%;
 }
 
 .intro5 img{
-    padding-left: 42%;
-    padding-bottom: 4%;
+    text-align: center;
 }
 
 .intro5 h2{
@@ -142,6 +150,9 @@ padding-bottom: 4%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.intro6{
+    text-align: center;
+}
 .intro6 h1{
     text-align: center;
 padding-top: 15%;
@@ -149,8 +160,7 @@ padding-bottom: 4%;
 }
 
 .intro6 img{
-    padding-left: 36%;
-    padding-bottom: 4%;
+    text-align: center;
 }
 
 .intro6 p{
@@ -162,14 +172,16 @@ padding-bottom: 4%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-
+.intro7{
+    text-align: center;
+}
 .intro7 h1{
     text-align: center;
     padding-top: 15%;
     padding-bottom: 4%;
 }
 .intro7 img{
-    padding-left: 36%;
+    text-align: center;
    
 }
       
