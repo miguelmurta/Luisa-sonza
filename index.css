@@ -12,32 +12,36 @@ header {
             background-color:#cbb3b3 ;
         }
 
-    .intro{
-        background-image: url(395630127_18405319714042103_9035538455250871602_n.jpg);
-        background-repeat: no-repeat;
-        background-size: cover;
-        height: 100%;
-        width: 100%;
-        font-family: Arial, sans-serif;
-        background-position: center;
-        color: #fff;
-        object-fit: cover;
-        margin-top: 0%;
-        padding-top: 0%;
-    }
     
-    .intro h1 {
-        font-size: 3em;
-        padding-top: 30%;
-        margin-top: 0%;
-        
-    }
-    .intro p {
-        font-size: 1.2em;
-       
-    }
+        .intro{
+            background-image: url(395630127_18405319714042103_9035538455250871602_n.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            width: 150px; 
+            height: auto;
+            height: 100%;
+            width: 100%;
+            font-family: Arial, sans-serif;
+            background-position: center;
+            color: #fff;
+            object-fit: cover;
+            .style.position = 'fixed';
 
-       button{
+        }
+        
+     .intro h1 {
+            font-size: 3em;
+            padding-top: 30%;
+            margin-top: 0%;
+            padding-left: 15%;
+            
+        }
+     .intro p {
+            font-size: 1.2em;
+            padding-left: 13%;
+           
+        }
+     button{
         border-radius: 10%;
         transition-duration: 0.4s;
         background-color: rgb(255, 255, 255);
@@ -49,13 +53,145 @@ header {
         font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
 
-        footer {
-            background-color: #850707;
-            color: #fff;
-            text-align: center;
-            bottom: 0;
-            width: 100%;
-            height: 10%;
+
+
+    .intro2{
+        display: flex;
+    align-items: flex-start;
+    }
+    .intro2 img{
+     padding-top: 15%;
+     padding-left: 5%;
+     display: block;
+     padding-bottom: 25%;
+
+    }
+
+    .intro2 p{
+        padding-left: 10%;
+        padding-right: 10%;
+        padding-top: 25%;
+        padding-bottom: 10%;
+        font-size: large;
+        text-align: justify;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        display: block;
         }
+
+    .ep_luisa h1{
+        text-align: center;
+        padding-bottom: 4%;
+         }
+
+    .ep_luisa img{
+        padding-left: 42%;
+        padding-bottom: 4%;
+    }
+
+    .ep_luisa p{
+        text-align: center;
+        padding-left: 10%;
+        padding-right: 10%;
+        font-size: large;
+        text-align: justify;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
        
-    
+    }
+
+.luisa2 h1{
+    text-align: center;
+    padding-top: 15%;
+    padding-bottom: 4%;
+}
+
+.luisa2 img{
+    padding-left: 42%;
+    padding-bottom: 4%;
+}
+
+.luisa2 p{
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: large;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.intro5 h1{
+text-align: center;
+padding-top: 15%;
+padding-bottom: 4%;
+}
+
+.intro5 img{
+    padding-left: 42%;
+    padding-bottom: 4%;
+}
+
+.intro5 h2{
+    text-align: center;
+}
+
+.intro5 p{
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: large;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.intro6 h1{
+    text-align: center;
+padding-top: 15%;
+padding-bottom: 4%;
+}
+
+.intro6 img{
+    padding-left: 36%;
+    padding-bottom: 4%;
+}
+
+.intro6 p{
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: large;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.intro7 h1{
+    text-align: center;
+    padding-top: 15%;
+    padding-bottom: 4%;
+}
+.intro7 img{
+    padding-left: 36%;
+   
+}
+      
+
+.intro7 p{
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 10%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    font-size: large;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer {
+    background-color: #850707;
+    color: #fff;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    height: 10%;
+    margin: 0%;
+    padding-bottom: 1px;
+}
