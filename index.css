@@ -25,15 +25,16 @@ header {
             background-position: center;
             color: #fff;
             object-fit: cover;
-            .style.position = 'fixed';
+            position: absolute;
 
         }
         
      .intro h1 {
             font-size: 3em;
-            padding-top: 30%;
+            padding-top: 360px;
             margin-top: 0%;
             padding-left: 15%;
+            position: relative;
             
         }
      .intro p {
@@ -58,12 +59,13 @@ header {
     .intro2{
         display: flex;
     align-items: flex-start;
+    padding-top: 830px;
     }
     .intro2 img{
      padding-top: 15%;
      padding-left: 5%;
      display: block;
-     padding-bottom: 25%;
+     padding-bottom: 15%;
 
     }
 
@@ -107,7 +109,7 @@ header {
 }
 .luisa2 h1{
     text-align: center;
-    padding-top: 15%;
+    padding-top: 10%;
     padding-bottom: 4%;
 }
 
